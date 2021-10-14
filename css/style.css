@@ -7,8 +7,8 @@
 .container {
     width: 80% ;
     height: 800px;
-    margin: 2em auto;
-    padding: 2em;
+    margin: 1em auto;
+    padding: 1em;
     
 }
 
@@ -22,7 +22,7 @@
 main {
     width: 90%;
     height: 70%;
-    margin: 2em auto;
+    margin: 1em auto;
     
 }
 
@@ -36,14 +36,14 @@ main {
 .blue {
     width: 100%;
     height: 55%;
-    margin-top: 5%;
+    margin-top: 1em;
     background: #5970f5;
 }
 
 .contain-blue {
     width: 100%;
     height: 10%;
-    background: turquoise;
+    background: rgb(95, 208, 253);
 }
 
 .paragraph {
@@ -58,7 +58,7 @@ main {
 }
 
 [class*="light"] {
-    margin-top: 2%;
+    margin-top: 1%;
 }
 
 .blue-left {
@@ -76,15 +76,15 @@ main {
 
 .blue-left, .blue-right {
     width: 23%;
-    height: 99%;
-    background: turquoise;
+    height: 105%;
+    background: rgb(95, 208, 253);
 }
 
 .blue-center {
     width: 47%;
-    height: 99%;
-    background: turquoise;
-   
+    height: 105%;
+    background: rgb(95, 208, 253);
+    margin-left: 3.6%;
 }
 
 

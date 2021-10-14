@@ -19,12 +19,11 @@
     background-color: #c498aa;
 }
 
-.main-header {
+.yellow {
     width: 90% ;
-    height: 30%;
+    height: 40%;
     margin: 1em auto;
-    background-color: #f4d587
-    ;
+    background-color: #f4d587;
 }
 
 .and {
@@ -32,4 +31,11 @@
     height: 5%;
     margin: 1em auto;
     background-color: #432249;
+}
+
+.blue{
+    width: 90% ;
+    height: 50%;
+    margin: 1em auto;
+    background-color: #2974e4;
 }

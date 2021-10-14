@@ -51,7 +51,7 @@ main {
     height: 80%;
 }
 
-.centralfix::after {
+.clearfix::after {
     content: '';
     display: table;
     clear: both;
@@ -59,19 +59,9 @@ main {
 
 [class*="light"] {
     margin-top: 1%;
-}
-
-.blue-left {
     float: left;
 }
 
-.blue-center {
-    float: left
-}
-
-.blue-right {
-    float: right;
-}
 
 
 .blue-left, .blue-right {
@@ -84,13 +74,14 @@ main {
     width: 47%;
     height: 105%;
     background: rgb(95, 208, 253);
-    margin-left: 3.6%;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
 }
 
 
 .and {
     width: 90% ;
     height: 5%;
-    margin: 1em auto;
+    margin: 0.5em auto;
     background-color: #432249;
 }

@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80% ;
+    height: 800px;
+    margin: 2em auto;
+    padding: 2em;
+    background-color: rgb(255, 255, 109);
+}
+
+.title {
+    width: 90% ;
+    height: 10%;
+    margin: 1em auto;
+    background-color: #c498aa;
+}
+
+.main-header {
+    width: 90% ;
+    height: 30%;
+    margin: 1em auto;
+    background-color: #f4d587
+    ;
+}
+
+.and {
+    width: 90% ;
+    height: 5%;
+    margin: 1em auto;
+    background-color: #432249;
+}
